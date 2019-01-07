@@ -1,0 +1,70 @@
+{
+  "ftp://phouse.co@call@phouse.co": {
+    ".ftpquota": {
+      "type": "-",
+      "size": 14,
+      "lmtime": 0,
+      "modified": false
+    },
+    "CallTransferScript.zip": {
+      "type": "-",
+      "size": 8414868,
+      "lmtime": 0,
+      "modified": false
+    },
+    "app": {},
+    "assets": {},
+    "cgi-bin": {},
+    "composer.json": {
+      "type": "-",
+      "size": 497,
+      "lmtime": 0,
+      "modified": false
+    },
+    "composer.lock": {
+      "type": "-",
+      "size": 2103,
+      "lmtime": 0,
+      "modified": false
+    },
+    "config": {},
+    "db.json": {
+      "type": "-",
+      "size": 106,
+      "lmtime": 0,
+      "modified": false
+    },
+    "error_log": {
+      "type": "-",
+      "size": 14286,
+      "lmtime": 0,
+      "modified": false
+    },
+    "error_log.txt": {
+      "type": "-",
+      "size": 1759,
+      "lmtime": 0,
+      "modified": false
+    },
+    "index.new.php": {
+      "type": "-",
+      "size": 3354,
+      "lmtime": 0,
+      "modified": false
+    },
+    "index.php": {
+      "type": "-",
+      "size": 3866,
+      "lmtime": 0,
+      "modified": false
+    },
+    "readme.md": {
+      "type": "-",
+      "size": 505,
+      "lmtime": 0,
+      "modified": false
+    },
+    "vendor": {}
+  },
+  "$version": 1
+}
