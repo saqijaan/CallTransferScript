@@ -1,9 +1,9 @@
 <?php 
 
-//$_ENV ['AGENT_NUMBER']  = '+923166511931';
-$_ENV ['AGENT_NUMBER']  = '+18312453028';
+//$_ENV ['AGENT_NUMBER']  = '';
+$_ENV ['AGENT_NUMBER']  = '';
 
-$_ENV ['TWILIO_NUMBER']  = '+12282228079';
+$_ENV ['TWILIO_NUMBER']  = '';
 
-$_ENV ['CLIENT_SID']    = 'AC255bf5dcac4f7833d7bae9e7da5cd0b7';
-$_ENV ['AUTH_TOKEN']    = '3688ac551d79bb78ac2694032bd6f7bd';
+$_ENV ['CLIENT_SID']    = '';
+$_ENV ['AUTH_TOKEN']    = '';
